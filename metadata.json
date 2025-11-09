@@ -1,0 +1,7 @@
+{
+  "name": "ProWrite AI",
+  "description": "ProWrite AI helps you write blogs, articles, ads, and social posts instantly — free and smart.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
